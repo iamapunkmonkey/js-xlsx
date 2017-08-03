@@ -1,5 +1,5 @@
 {
-	"name": "xlsx",
+	"name": "punk-xlsx",
 	"version": "0.11.0",
 	"author": "sheetjs",
 	"description": "Excel (XLSB/XLSX/XLS/XML) ODS and other spreadsheet format (CSV/DIF/DBF/SYLK) parser and writer",
